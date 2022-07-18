@@ -1,5 +1,4 @@
 {
-    "$schema": "https://json.schemastore.org/web-manifest-combined.json",
     "name": "JETdrive",
     "short_name": "JETdrive",
     "start_url": "https://aliafrazeh-1378.github.io/jetdrive/",
