@@ -1,7 +1,8 @@
 {
+    "$schema": "https://json.schemastore.org/web-manifest-combined.json",
     "name": "JETdrive",
     "short_name": "JETdrive",
-    "start_url": "https://getjetdrive.github.io/",
+    "start_url": "https://aliafrazeh-1378.github.io/jetdrive/",
     "display": "standalone",
     "background_color": "#fff",
     "theme_color": "#fff",
@@ -39,6 +40,5 @@
             "platform": "play",
             "id": "com.google.samples.apps.iosched"
         }
-}
-
-  
+    ]
+  }
