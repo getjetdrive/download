@@ -53,7 +53,4 @@ self.addEventListener('fetch', function(event) {
       })
     );
   });
-let installPromptEvent;
-		window.addEventListener('beforeinstallprompt', (event) => {
-		  installPromptEvent = event;
-		});
+
