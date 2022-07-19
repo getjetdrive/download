@@ -1,8 +1,8 @@
 {
   "$schema": "https://json.schemastore.org/web-manifest-combined.json",
-  "name": "HackerWeb",
-  "short_name": "HackerWeb",
-  "start_url": ".",
+  "name": "JETdrive",
+  "short_name": "JETdrive",
+  "start_url": "https://aliafrazeh-1378.github.io/jetdrive/",
   "display": "standalone",
   "background_color": "#fff",
   "description": "A readable Hacker News app.",
