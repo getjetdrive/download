@@ -2,13 +2,13 @@
     "$schema": "https://json.schemastore.org/web-manifest-combined.json",
     "name": "JETdrive",
     "short_name": "JETdrive",
-    "start_url": "https://aliafrazeh-1378.github.io/jetdrive/index.html",
+    "start_url": "https://aliafrazeh-1378.github.io/jetdrive/",
     "display": "standalone",
     "background_color": "#fff",
     "theme_color": "#fff",
     "description": "",
     "icons": [{
-        "src": "https://user-images.githubusercontent.com/109254999/179083766-0994c2e2-e0e6-4581-901f-57f8c917b8ee.jpg",
+        "src": "https://user-images.githubusercontent.com/108769239/177431496-e5398d08-74cb-401d-a0a0-e5695d5d4527.jpg",
         "sizes": "48x48",
         "type": "image/png"
       }, {
